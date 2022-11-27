@@ -1,0 +1,2 @@
+# CP-Notes
+Competitive programming
