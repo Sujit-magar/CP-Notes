@@ -1,6 +1,15 @@
 #include<iostream>
 using namespace std;
-int countsetNaive(int a){ 
+int countset(int n){ 
+   int res=0; 
+   while(n!=0){ 
+   if(n&1==1){ 
+    res++; 
+    n=n>>1; 
+    } 
+   } return res; 
+} 
+int countsetNaive(int n){ 
    int res=0; 
    while(n!=0){ 
    res++;
