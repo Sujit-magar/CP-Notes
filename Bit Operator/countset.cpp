@@ -5,8 +5,8 @@ int countset(int n){
    while(n!=0){ 
    if(n&1==1){ 
     res++; 
-    n=n>>1; 
     } 
+    n=n>>1;  
    } return res; 
 } 
 int countsetNaive(int n){ 
