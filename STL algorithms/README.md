@@ -36,3 +36,30 @@ Example : stable_sort , stable_partition
 Example : is_sorted, is_partitioned, is_heap
 <h3>3. is_*_untill</h3>
            
+<h1> Searching techniques </h1>
+<h2> Unsorted </h2>
+<h3>1. find</h3>
+<h3>2. adjacent_find</h3>
+<h2> Sorted </h2>
+<h3>1. lower_bound</h3>
+<h3>2. upper_bound</h3>
+<h3>3. equal_range</h3>
+<h3>4. binary_search</h3> it return value true if given element is present or not and returns false if given element is not present
+<h2> Searching range </h2>
+<h3>1. search</h3>
+<h3>2. find_end</h3>
+<h3>3. find_first_of</h3>
+<h2> Searching a relative value </h2>
+<h3>1. min_element </h3>
+<h3>2. max_element</h3>
+<h3>3. minmax_element</h3>
+
+<h1> Algos on sets </h1>
+<h2> A: soted B:unsorted </h2>
+<h3>1. set_difference </h3>
+<h3>2. set_union</h3>
+<h3>3. set_symmetric_difference</h3>
+<h3>4. set_intersection</h3>
+<h3>5. includes</h3> it return boolean value when all the elements of B is present in the set A.
+<h3>6. merge</h3>
+
