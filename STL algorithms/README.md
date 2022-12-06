@@ -16,3 +16,9 @@ which simply sorts in ascending order
 which sorts in spacified range
 <h3><b>3. nth_element :</h3></b>
 after nth_element elements present in the left of the nth_element will be in unspecified order but less than nth_element and elements in the right of the nth_element will be in unspecified order but not less than nth_element.
+<h3><b>4. sort_heap :</h3></b>
+<h3><b>5. inplace_merge :</h3></b>
+
+# Partitioning :
+<h3><b>1. partition </h3></b>
+<h3><b>2. partition_point </h3></b>
