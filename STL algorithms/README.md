@@ -23,3 +23,9 @@ after nth_element elements present in the left of the nth_element will be in uns
 <h2>Partitioning </h2>
 <h3><b>1. partition </h3></b>
 <h3><b>2. partition_point </h3></b>
+<h1> Other Permutations </h1>
+<h3>1. rotate</h3>
+<h3>2. shuffle</h3>
+<h3>3. next_permutation </h3>
+<h3>4. prev_permutation </h3>
+<h3>5. reverse</h3>
