@@ -29,3 +29,9 @@ after nth_element elements present in the left of the nth_element will be in uns
 <h3>3. next_permutation </h3>
 <h3>4. prev_permutation </h3>
 <h3>5. reverse</h3>
+<h2>Partitoning-sort-heap </h2>
+<h3>1. stable</h3>
+Example : stable_sort , stable_partition
+<h3>2. is</h3>
+Example : is_sorted, is_partitioned, is_heap
+           
