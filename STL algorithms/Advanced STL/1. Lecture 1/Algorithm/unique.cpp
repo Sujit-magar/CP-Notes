@@ -10,6 +10,7 @@ int main()
     //to get non repeating elements 
     int newlen=unique(s,s+strlen(s))-s; 
     s[newlen]=0; 
+    // *unique (s, s+strlen (s))=0;
     cout<<s<<endl;
     //for distinct elements
     sort(s,s+newlen); 
